@@ -15,9 +15,9 @@ background-color: rgb(28, 137, 135);
         height: 100%;
         width: 100%;
        display:flex;
-       flex-direction: column;
+       /*flex-direction: column;
        flex-wrap: nowrap;
-       align-content:stretch;
+       align-content:stretch;*/
        justify-content: center;
        align-items: center;
        
